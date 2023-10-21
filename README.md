@@ -1,0 +1,1 @@
+# SPPU-TE-Comp-Practicals
