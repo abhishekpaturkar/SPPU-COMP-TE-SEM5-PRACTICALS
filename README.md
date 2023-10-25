@@ -13,7 +13,7 @@ This repository is organized into folders for two specific labs:
 
 1. [LP-1 Lab](LP-1): This folder contains the source code and materials for the Laboratory Practices - 1 (LP-1) lab assignments.
 
-2. [DBMS Lab](DBMSQueries): This folder contains the source code and relevant materials for the Database Management System (DBMS) lab assignments.
+2. [DBMS Lab](DBMS-Queries): This folder contains the source code and relevant materials for the Database Management System (DBMS) lab assignments.
 
 You can navigate to each assignment folder to access the source code and any relevant documentation.
 
