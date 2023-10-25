@@ -5,7 +5,7 @@ Welcome to the SPPU Third Year Computer Engineering Lab Assignments repository! 
 
 ## Introduction
 
-In the third year of the Computer Engineering program at SPPU, students undertake various laboratory assignments to reinforce their knowledge of theoretical concepts and gain hands-on experience. This repository is created to centralize the lab assignment codes for Laboratory Practices - 1 (LP-1) and the Database Management System (DBMS) lab.
+In the third year of the Computer Engineering program at SPPU, students undertake various laboratory assignments to reinforce their knowledge of theoretical concepts and gain hands-on experience. This repository is created to centralize the lab assignment codes for Laboratory Practices - 1 (LP-1) which include SPOS and DS (Distributed Systems) and the Database Management System (DBMS) lab.
 
 ## Lab Assignments
 
